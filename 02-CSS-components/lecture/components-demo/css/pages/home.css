@@ -1,0 +1,5 @@
+.card-trip--container {
+  display: flex;
+  gap: 24px;
+  margin-top: 80px;
+}
