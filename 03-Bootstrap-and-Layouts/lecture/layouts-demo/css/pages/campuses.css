@@ -1,0 +1,16 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 16px;
+  flex-grow: 1;
+}
+
+.layout-with-map {
+  display: flex;
+}
+
+#map {
+  height: 90vh;
+  position: sticky;
+  top: 0;
+}
